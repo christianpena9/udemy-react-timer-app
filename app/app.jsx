@@ -6,7 +6,7 @@ var {Route, Router, IndexRoute, hashHistory, browserHistory} = require('react-ro
 var Main = require('Main');
 
 /* Load Foundation */
-require('style!css!foundation-sites/dist/foundation.min.css');
+require('style!css!foundation-sites/dist/css/foundation.min.css');
 $(document).foundation();
 
 // App CSS
